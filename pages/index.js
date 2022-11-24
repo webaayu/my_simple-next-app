@@ -12,7 +12,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-       Actions-based deployments <br/> are here! ✨
+       Actions-based deployments!!!!!! <br/> are here! ✨
         </h1>
         <h3>Use GitHub Actions to deploy your app to GitHub Pages using ANY Static Site Generator</h3>
         <h3>Give it a try today!</h3>
