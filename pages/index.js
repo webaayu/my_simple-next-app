@@ -12,10 +12,11 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-       Actions-based deployments!!!!!! <br/> are here! ✨
+       Actions-based deployments <br/> are here! ✨
         </h1>
         <h3>Use GitHub Actions to deploy your app to GitHub Pages using ANY Static Site Generator</h3>
-        <h3>Give it a try today!</h3>
+        <h3>Thank You!!!</h3>
+        <h4>First Try with fork repo</h4> 
         <img className={styles.img} src="https://octodex.github.com/images/femalecodertocat.png" alt="female coder octocat" />
         </main>
     </div>
